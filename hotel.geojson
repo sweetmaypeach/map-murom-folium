@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "hotel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "full_id": "n1733789881", "osm_id": "1733789881", "osm_type": "node", "tourism": "hotel", "name": "Волна", "stars": 5, "money": 2600 }, "geometry": { "type": "Point", "coordinates": [ 42.0627068, 55.5778332 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "full_id": "n2691149456", "osm_id": "2691149456", "osm_type": "node", "tourism": "hotel", "name": "Кремлёвская", "stars": 4, "money": 5320 }, "geometry": { "type": "Point", "coordinates": [ 42.0254605, 55.5701573 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "full_id": "n4958180363", "osm_id": "4958180363", "osm_type": "node", "tourism": "hotel", "name": "Есенин", "stars": 5, "money": 5200 }, "geometry": { "type": "Point", "coordinates": [ 42.0542099, 55.5835063 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "full_id": "n5965558885", "osm_id": "5965558885", "osm_type": "node", "tourism": "hotel", "name": "Пирамида", "stars": 4, "money": 2400 }, "geometry": { "type": "Point", "coordinates": [ 42.0498354, 55.5788844 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "full_id": "n7218259027", "osm_id": "7218259027", "osm_type": "node", "tourism": "hotel", "name": "Три Богатыря", "stars": 5, "money": 4600 }, "geometry": { "type": "Point", "coordinates": [ 42.0437797, 55.5781414 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "full_id": "n7284207967", "osm_id": "7284207967", "osm_type": "node", "tourism": "hotel", "name": "Купеческий ДворЪ", "stars": 5, "money": 6500 }, "geometry": { "type": "Point", "coordinates": [ 42.0521691, 55.5784296 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "full_id": "n12823886978", "osm_id": "12823886978", "osm_type": "node", "tourism": "hotel", "name": "Русич", "stars": 5, "money": 2700 }, "geometry": { "type": "Point", "coordinates": [ 42.0353872, 55.5805302 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Дом купца Сыромятникова", "stars": 5, "money": 3400 }, "geometry": { "type": "Point", "coordinates": [ 42.067217922190231, 55.570694830381882 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Святогор", "stars": 5, "money": 3500 }, "geometry": { "type": "Point", "coordinates": [ 42.068503443590963, 55.570598252520028 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Вирсавия", "stars": 4, "money": 2700 }, "geometry": { "type": "Point", "coordinates": [ 42.06377938330386, 55.571499927742323 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Аист", "stars": 4, "money": 2100 }, "geometry": { "type": "Point", "coordinates": [ 42.060763561549955, 55.574635246218932 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Саквояж", "stars": 5, "money": 3500 }, "geometry": { "type": "Point", "coordinates": [ 42.050829309427435, 55.575266401860794 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Муром", "stars": 5, "money": 5300 }, "geometry": { "type": "Point", "coordinates": [ 42.04134337796976, 55.577038760846655 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Дом над рекой", "stars": 5, "money": 5300 }, "geometry": { "type": "Point", "coordinates": [ 42.063296987763344, 55.577863976926963 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Акварель", "stars": 5, "money": 3250 }, "geometry": { "type": "Point", "coordinates": [ 42.064572724901012, 55.576285701919261 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "X.ROOM", "stars": 5, "money": 6100 }, "geometry": { "type": "Point", "coordinates": [ 42.029048408732187, 55.575360571411494 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Ромашка", "stars": 5, "money": 4165 }, "geometry": { "type": "Point", "coordinates": [ 42.019104142033619, 55.566086225067949 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Сова", "stars": 4, "money": 5990 }, "geometry": { "type": "Point", "coordinates": [ 42.002710725462009, 55.580039784635368 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Райский уголок", "stars": 4, "money": 2500 }, "geometry": { "type": "Point", "coordinates": [ 42.045803732125613, 55.588816184437697 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Южный дворик", "stars": 4, "money": 2400 }, "geometry": { "type": "Point", "coordinates": [ 42.045210675594973, 55.555897765249334 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Амосов", "stars": 5, "money": 3540 }, "geometry": { "type": "Point", "coordinates": [ 42.02545528540108, 55.573529318648731 ] } },
+{ "type": "Feature", "properties": { "fid": 24, "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "name": "Элегия", "stars": 5, "money": 11940 }, "geometry": { "type": "Point", "coordinates": [ 42.059475508393184, 55.581853387592268 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Былинный камень", "type": "памятник", "adress": "Владимирское шоссе, 31", "lat": 55.593535, "lon": 41.992254 }, "geometry": { "type": "Point", "coordinates": [ 41.992254, 55.593535 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Бронепоезд Илья Муромец", "type": "памятник", "adress": "парк имени 50-летия Советской власти", "lat": 55.576215, "lon": 42.025901 }, "geometry": { "type": "Point", "coordinates": [ 42.025901, 55.576215 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Хлебная горница", "type": "музей", "adress": "ул. Амосова, 48", "lat": 55.569142, "lon": 42.021963 }, "geometry": { "type": "Point", "coordinates": [ 42.021963, 55.569142 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Муромский калач", "type": "памятник", "adress": "ул. Ленина, 24", "lat": 55.578592, "lon": 42.053336 }, "geometry": { "type": "Point", "coordinates": [ 42.053336, 55.578592 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Трапезная «У Илья, у Муромца»", "type": "кафе", "adress": "ул. Ленина, 25", "lat": 55.578087, "lon": 42.05264 }, "geometry": { "type": "Point", "coordinates": [ 42.05264, 55.578087 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Илья Муромец", "type": "памятник", "adress": "Окский съезд, 9", "lat": 55.580508, "lon": 42.060801 }, "geometry": { "type": "Point", "coordinates": [ 42.060801, 55.580508 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Муромский Спасо-Преображенский мужской монастырь", "type": "монастырь", "adress": "ул. Лакина", "lat": 55.57281, "lon": 42.066376 }, "geometry": { "type": "Point", "coordinates": [ 42.066376, 55.57281 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Купель у источника Ильи Муромца", "type": "часовня", "adress": "ул. Приокская, 151", "lat": 55.542931, "lon": 42.087874 }, "geometry": { "type": "Point", "coordinates": [ 42.087874, 55.542931 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Изба Ильи Муромца", "type": "музей", "adress": "ул. Красина, 21", "lat": 55.54207, "lon": 42.087697 }, "geometry": { "type": "Point", "coordinates": [ 42.087697, 55.54207 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Дом Ильи Муромца", "type": "музей", "adress": "ул. Приокская, 278", "lat": 55.531286, "lon": 42.088317 }, "geometry": { "type": "Point", "coordinates": [ 42.088317, 55.531286 ] } }
+]
+}
